@@ -1,0 +1,11 @@
+{
+  "name": "mern-food-delivery-app-main",
+  "version": "1.0.0",
+  "description": "## Table of Contents - [Introduction](#introduction) - [Features](#features) - [Technologies Used](#technologies-used) - [Installation](#installation) - [Usage](#usage) - [Screenshots](#screenshots) - [API Documentation](#api-documentation) - [Contributing](#contributing) - [Contact](#contact)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
